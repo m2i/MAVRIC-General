@@ -1,5 +1,5 @@
 # MAVRIC Phoenix : [Team Name]
-The repository for the E-Team. Includes designs and documentation.
+The repository for the [NAME] Team. Includes designs and documentation.
 
 # Team Structure
 Team Lead: [Team Lead's name] (@[team lead's github account])
